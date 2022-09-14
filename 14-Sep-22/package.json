@@ -1,0 +1,24 @@
+{
+  "name": "sample-api",
+  "version": "1.0.0",
+  "description": "demo api using http module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanjanpati/NodeJs-projects.git"
+  },
+  "author": "Himanjan Pati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanjanpati/NodeJs-projects/issues"
+  },
+  "homepage": "https://github.com/himanjanpati/NodeJs-projects#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "chalk": "^4.1.2"
+  }
+}
