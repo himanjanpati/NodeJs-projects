@@ -1,0 +1,27 @@
+{
+  "name": "esm-sample-api",
+  "version": "1.0.0",
+  "description": "sample nodejs api using ESM",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanjanpati/NodeJs-projects.git"
+  },
+  "author": "Himanjan Pati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanjanpati/NodeJs-projects/issues"
+  },
+  "homepage": "https://github.com/himanjanpati/NodeJs-projects#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
